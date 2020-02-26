@@ -128,3 +128,20 @@ footer {
   list-style: none;
   padding: 0;
 }
+
+#installBanner {
+  display: none;
+}
+
+#installBtn {
+  background-color: white;
+  cursor: pointer;
+}
+
+/*
+@media all and (display-mode: standalone) {
+  body {
+    background-color: yellow;
+  }
+}
+*/
